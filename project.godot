@@ -13,7 +13,7 @@ config_version=5
 config/name="Dự án Trò chơi Mới"
 run/main_scene="uid://c73yu07hq3aml"
 config/features=PackedStringArray("4.7", "GL Compatibility")
-config/icon="res://icon.svg"
+config/icon="res://aoichan.svg"
 
 [display]
 
