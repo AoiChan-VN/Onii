@@ -1,0 +1,36 @@
+# ============================================================
+# PROJECT STRUCTURE (FINAL)
+# Engine : Godot 4.7.1 Stable# Platform : Android
+# Renderer : GL Compatibility (OpenGL 3.0)
+# Orientation : Landscape
+# Offline# Mobile First
+# DO NOT RENAME ANY FOLDER# DO NOT MOVE ANY FOLDER
+# ============================================================
+---
+# Game: World Simulation 3D
+# Hệ thống:
+• Khí hậu 4 mùa: Season > Climate > Weather > Environment
+- Phối hợp và kết hợp cùng nhau tạo lên 4 mùa và khí hậu và thời tiết chân thực nhất.
+- Hệ thống Shaders giúp bạn trải nghiệm tốt hơn và thực tế hơn cùng hệ thống 4 mùa environment.
+
+# Hệ thống Bầu trời
+• Bầu trời được làm với độ chân thực cao.
+• Có tầng Mây, Sao, Khí quyển, Vũ trụ, Ngân hà,... các hiện tượng cực quang tự nhiên.
+- đem lại sự chân thực như khi bạn nhìn lên bầu trời ngoài đời thật.
+# Hệ thống Nhân vật
+• Nhân vật có góc nhìn chân thực của mắt người.
+• Nhân vật sẽ có các Emote hành vi/động tác như: Ngồi, Nằm, Múa,... giúp tăng cảm xúc.
+
+# Hệ thống UI/UX/HUD
+• Hiển thị thời gian/ngày/tháng/năm, 4 Mùa và khí hậu thời tiết trực quan để bạn biết.
+• Virtual Joystick và các nút bấm,...
+• Dialog/Popup thông báo,..
+
+# Hệ thống Modding/Pack
+- Giúp bạn dễ dàng cài đặt các gói Shader_Packs Hoặc Resource_Packs theo ý thích hoặc của riêng bạn, giúp tăng trải nghiệm riêng biệt của mỗi người.
+---
+
+# Cam kết
+• Game của tôi hoàn toàn loại bỏ các yếu tố PK, PVP, MOBA, RPG Quest,.. để bạn hoàn toàn cảm nhận thế giới này và thư giãn cùng tính chân thực cao nhất.
+
+• Project cây Folder/File được tổ chức chặt chẽ theo cấu trúc AAA - DCL - DDA giúp dễ quản lí và vận hành nhiều năm, khokng gây xung đột và ảnh hưởng đến bất kỳ Hệ thống nào khi có nâng cấp hoặc thay đổi cũng như không bị ảnh hưởng đến quá trình game hoạt động để tránh sự cố Cash hoặc Sập Game.
