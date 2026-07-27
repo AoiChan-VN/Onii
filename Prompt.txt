@@ -33,4 +33,6 @@
 # Cam kết
 • Game của tôi hoàn toàn loại bỏ các yếu tố PK, PVP, MOBA, RPG Quest,.. để bạn hoàn toàn cảm nhận thế giới này và thư giãn cùng tính chân thực cao nhất.
 
+• Gane hoạt động thông qua Client và được Hot Update bằng GitHub để giảm tải dung lượng game, cubgx như tránh tình trạng hack mod chỉnh sửa gane trái phép.
+
 • Project cây Folder/File được tổ chức chặt chẽ theo cấu trúc AAA - DCL - DDA giúp dễ quản lí và vận hành nhiều năm, khokng gây xung đột và ảnh hưởng đến bất kỳ Hệ thống nào khi có nâng cấp hoặc thay đổi cũng như không bị ảnh hưởng đến quá trình game hoạt động để tránh sự cố Cash hoặc Sập Game.
