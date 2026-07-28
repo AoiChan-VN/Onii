@@ -36,3 +36,95 @@
 • Gane hoạt động thông qua Client và được Hot Update bằng GitHub để giảm tải dung lượng game, cubgx như tránh tình trạng hack mod chỉnh sửa gane trái phép.
 
 • Project cây Folder/File được tổ chức chặt chẽ theo cấu trúc AAA - DCL - DDA giúp dễ quản lí và vận hành nhiều năm, khokng gây xung đột và ảnh hưởng đến bất kỳ Hệ thống nào khi có nâng cấp hoặc thay đổi cũng như không bị ảnh hưởng đến quá trình game hoạt động để tránh sự cố Cash hoặc Sập Game.
+
+# ============================================================
+# Game: World Simulation 3D
+# Genre: Sandbox Simulation
+# ============================================================
+
+• World Simulation 3D là một trò chơi Sandbox Simulation tập trung vào việc mô phỏng một thế giới tự nhiên đang vận hành theo các quy luật của riêng nó.
+
+• Không có PvP.
+• Không có PvE.
+• Không có Combat.
+• Không có Survival.
+• Không có Crafting.
+• Không có Building.
+• Không có Quest.
+• Không có Level.
+• Không có hệ thống buộc người chơi phải hoàn thành mục tiêu.
+
+• Bạn không phải là anh hùng.
+• Bạn không phải là người chinh phục thế giới.
+• Bạn chỉ đơn giản là một người lữ khách sống trong thế giới đó.
+
+• Khám phá, quan sát và tận hưởng thiên nhiên theo cách của riêng bạn.
+• Đi bộ, ngắm cảnh, ngắm bình minh, hoàng hôn, bầu trời đầy sao hay đứng giữa cơn mưa chỉ để cảm nhận thế giới đang thay đổi.
+
+# ============================================================
+# Core Philosophy
+# ============================================================
+
+• Thế giới là nhân vật chính.
+• Người chơi chỉ là một phần rất nhỏ của thế giới.
+• Thế giới vẫn tiếp tục vận hành dù người chơi có tương tác hay không.
+
+# ============================================================
+# World Simulation
+# ============================================================
+
+Time
+↓
+Season
+↓
+Climate
+↓
+Weather
+↓
+Environment
+↓
+Living World
+
+• Thời gian làm thay đổi mùa.
+• Mùa ảnh hưởng đến khí hậu.
+• Khí hậu tạo nên thời tiết.
+• Thời tiết tác động lên môi trường.
+• Môi trường làm thay đổi toàn bộ thế giới.
+
+• Mọi thay đổi đều được mô phỏng theo thời gian thực thay vì chỉ là hiệu ứng hình ảnh.
+
+# ============================================================
+# Player Experience
+# ============================================================
+
+• Khám phá thế giới.
+• Quan sát thiên nhiên.
+• Ngắm bầu trời.
+• Nghe âm thanh môi trường.
+• Chụp ảnh.
+• Ngồi nghỉ.
+• Nằm thư giãn.
+• Thưởng thức vẻ đẹp của từng khoảnh khắc.
+
+• Không có cách chơi đúng.
+• Không có cách chơi sai.
+• Chỉ có trải nghiệm thế giới theo nhịp độ của riêng bạn.
+
+# ============================================================
+# Modding
+# ============================================================
+
+• Shader Packs
+• Resource Packs
+• Language Packs
+• Audio Packs
+
+• Hỗ trợ mở rộng nội dung mà không ảnh hưởng đến hệ thống cốt lõi của trò chơi.
+
+# ============================================================
+# Project Vision
+# ============================================================
+
+"Đây không phải là một trò chơi về việc chinh phục thế giới.
+
+Đây là một trò chơi về việc sống cùng thế giới."
